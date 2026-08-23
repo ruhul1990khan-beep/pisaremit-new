@@ -1,0 +1,6 @@
+{
+  "name": "Paisa Remit",
+  "description": "পয়সা রেমিট - Complete Bengali Remittance and Money Transfer Application with multi-currency rates, KYC verification, recipient management, transaction history, and consent-based device protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
